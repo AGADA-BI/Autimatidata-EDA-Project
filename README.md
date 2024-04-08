@@ -6,6 +6,7 @@ This project uses a dataset called 2017_Yellow_Taxi_Trip_Data.csv.
 It data gathered by the New York City Taxi & Limousine Commission and published by the city of New York as part of their NYC Open Data program. 
 In order to improve the learning experience and shorten runtimes, a sample was drawn from the 113 million rows in the 2017 Yellow Taxi Trip Data table.
 The goal is to use a dataframe contructed within Python, perform a cursory inspection of the provided dataset, and present findings.
+
 The dataset contains:
 
 408,294 rows and 18 columns. Each row represents a different trip
